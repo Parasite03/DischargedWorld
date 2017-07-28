@@ -1,0 +1,5 @@
+Z:\CE Projects\Discharged World\bin\win_x64\CryEngine.SampleApp.dll
+Z:\CE Projects\Discharged World\bin\win_x64\CryEngine.SampleApp.pdb
+Z:\CE Projects\Discharged World\Code\SampleApp\obj\x64\Debug\SampleApp.csprojResolveAssemblyReference.cache
+Z:\CE Projects\Discharged World\Code\SampleApp\obj\x64\Debug\CryEngine.SampleApp.dll
+Z:\CE Projects\Discharged World\Code\SampleApp\obj\x64\Debug\CryEngine.SampleApp.pdb

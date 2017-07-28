@@ -1,0 +1,5 @@
+Z:/CE Projects/Discharged World/CMakeFiles/ALL_BUILD.dir
+Z:/CE Projects/Discharged World/CMakeFiles/ZERO_CHECK.dir
+Z:/CE Projects/Discharged World/Core/CMakeFiles/CryEngine.Core.dir
+Z:/CE Projects/Discharged World/Core.Tests/CMakeFiles/CryEngine.Core.Tests.dir
+Z:/CE Projects/Discharged World/Core.UI/CMakeFiles/CryEngine.Core.UI.dir

@@ -1,0 +1,4 @@
+Z:\CE Projects\Discharged World\bin\win_x64_release\CryEngine.SampleApp.dll
+Z:\CE Projects\Discharged World\bin\win_x64_release\CryEngine.SampleApp.pdb
+Z:\CE Projects\Discharged World\Code\SampleApp\obj\x64\Release\CryEngine.SampleApp.dll
+Z:\CE Projects\Discharged World\Code\SampleApp\obj\x64\Release\CryEngine.SampleApp.pdb
