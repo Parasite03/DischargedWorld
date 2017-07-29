@@ -1,2 +1,9 @@
 
 *.log
+*.db
+*.db-shm
+*.db-wal
+*.ini
+*.db
+*.db-shm
+*.db-wal
